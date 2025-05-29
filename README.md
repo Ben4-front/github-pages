@@ -8,7 +8,7 @@
 - **Образование:** Высшее
   
 📸 Мое фото
-![Текст с описанием картинки](\img\XXL_height.png") 
+![Текст с описанием картинки](\img\XXL_height.png) 
 
 📫 Контакты
 Email: your.email@example.com
